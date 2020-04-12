@@ -21,3 +21,4 @@ Configuration
 
 Edit `deluge_config/auth` to change the username and password from `"my_user"` to something you'll use to log into the admin interface. 
 
+To add additional plugins, just dump the egg files into `deluge_config/plugins` and add them to the plugin list in `deluge_config/core.conf`. 

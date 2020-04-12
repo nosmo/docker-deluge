@@ -1,0 +1,9 @@
+*~
+deluge_config/plugins/*egg
+deluge_config/*.bak
+deluge_config/deluged.log
+deluge_config/deluged.pid
+deluge_config/session.state
+deluge_config/ssl/
+deluge_config/state/
+downloads/*/
